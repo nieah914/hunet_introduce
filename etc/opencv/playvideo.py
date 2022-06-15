@@ -3,7 +3,7 @@
 import cv2
 import numpy as np
 
-file_name = 'GLICTH NO SIGNAL EFFECTS.mkv'
+file_name = '../../statics/GLICTH NO SIGNAL EFFECTS.mkv'
 window_name = "window"
 interframe_wait_ms = 30
 
